@@ -1,5 +1,4 @@
-## Hi there 👋
-
+General repository
 <!--
 **swanandj2004/swanandj2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
